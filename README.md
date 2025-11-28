@@ -53,14 +53,9 @@ Which model gives the best balance between accuracy and environmental impact?
 Dataset selection & preprocessing
 Feature engineering and correlation analysis
 
-Model training
-Linear Regression
-Random Forest
-Hyperparameter-tuned Random Forest (GridSearchCV)
+Model training - Linear Regression - Random Forest - Hyperparameter-tuned Random Forest (GridSearchCV)
 
-Evaluation using performance metrics
-R² Score
-RMSE
+Evaluation using performance metrics - R² Score - RMSE
 
 Sustainability evaluation using CodeCarbon
 Energy consumed during training
@@ -91,6 +86,7 @@ This project partially fulfils the research gap highlighted in “AI and Climate
 **🔮 Future Scope**
 
 This project can be enhanced further through:
+
 Optimization techniques to reduce training emissions
 Use of green computing resources and energy-aware scheduling
 Edge deployment to reduce cloud footprint
