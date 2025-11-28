@@ -80,6 +80,7 @@ Linear Regression gives the best balance of accuracy + energy efficiency, and is
 **📌 Research Contribution**
 
 This project partially fulfils the research gap highlighted in “AI and Climate Protection: Research Gaps and Needs to Align Machine Learning with Greenhouse Gas Reductions (2024)” by:
+
 ✔ Predicting GHG emissions using ML
 ✔ Measuring energy usage & carbon footprint during model training
 
@@ -87,8 +88,8 @@ This project partially fulfils the research gap highlighted in “AI and Climate
 
 This project can be enhanced further through:
 
-Optimization techniques to reduce training emissions
-Use of green computing resources and energy-aware scheduling
-Edge deployment to reduce cloud footprint
-Monitoring emissions during inference as well as training
-Extending to Deep Learning & LLM sustainability
+- Optimization techniques to reduce training emissions
+- Use of green computing resources and energy-aware scheduling
+- Edge deployment to reduce cloud footprint
+- Monitoring emissions during inference as well as training
+- Extending to Deep Learning & LLM sustainability
